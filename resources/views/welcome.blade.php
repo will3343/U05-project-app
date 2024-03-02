@@ -54,7 +54,7 @@
         </div>
           
         <!-- logged In or register button joint-->
-        <button class="btn btn-primary">   <a href="{{ route('login') }}">Log in Sign in </a> </button>
+        <button class="btn btn-primary">   <a href="{{ route('login') }}"> Log in Sign in </a> </button>
 
       </div>
 
