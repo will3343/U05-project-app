@@ -52,22 +52,10 @@
             <option value="tu">SV</option>
           </select>
         </div>
+       
 
-
-        <?php
-        if(array_key_exists('button1', $_POST)) { 
-            signIn(); 
-        }function signIn() { 
-            return view ("auth.Login") ;
-        } 
-        ?>
-
-        <form method="post"> 
-        <input class="btn btn-primary" type="submit" name="signIn" value="Sign In"/> 
-    </form>
-
-
-
+ <!-- logged In or register button joint-->
+ <button class="btn btn-primary" method="post" >   <a href="login"> Log in Sign in </a> </button>
 
        
       </div>
