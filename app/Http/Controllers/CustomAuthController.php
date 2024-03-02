@@ -10,13 +10,14 @@ use Session;
 class CustomAuthController extends Controller
 {
     //create function for login and registration 
-
     public function login(){
       return view ("auth.Login") ;
     }
     public function registration(){
       return view ("auth.Registration");
     }
+    //create function for login and registration end 
+
 
     public function registerUser(Request $request){
         //validate method 
@@ -73,5 +74,9 @@ class CustomAuthController extends Controller
             Session::pull('loginId');
             return redirect('login');
        }
+    }
+
+    public function welcome(){
+        return view('welcome');
     }
 }

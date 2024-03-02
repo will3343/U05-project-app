@@ -52,10 +52,24 @@
             <option value="tu">SV</option>
           </select>
         </div>
-          
-        <!-- logged In or register button joint-->
-        <button class="btn btn-primary">   <a href="{{ route('login') }}"> Log in Sign in </a> </button>
 
+
+        <?php
+        if(array_key_exists('button1', $_POST)) { 
+            signIn(); 
+        }function signIn() { 
+            return view ("auth.Login") ;
+        } 
+        ?>
+
+        <form method="post"> 
+        <input class="btn btn-primary" type="submit" name="signIn" value="Sign In"/> 
+    </form>
+
+
+
+
+       
       </div>
 
       <button class="menu-open-btn" data-menu-open-btn>
