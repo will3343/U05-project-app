@@ -18,9 +18,14 @@
     <header>
         <form  id="form">
 
+            <button class="btn btn-primary">   <a href="logout"> Log out </a> </button>
+
             <input type="text" placeholder="Search" id="search" class="search">
             
         </form>
+
+        
+
     </header>
     <div id="tags"></div>
     <div id="myNav" class="overlay">

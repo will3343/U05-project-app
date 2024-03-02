@@ -43,21 +43,21 @@
                         </div>
                         @endif
                           @csrf 
-                          <div class=" form-floating mb-3">
+                          <div class="  mb-3">
                                <label for="email">Email</label>
                                <input type="text" class="form-control" id="email" placeholder="Enter Email " name="email" value="{{old('email')}}">
                                <span class="text-danger">@error('email'){{$message}} @enderror</span>
                           </div>
-                          <div class=" form-floating mb-3 ">
+                          <div class="  mb-3 ">
                                <label for="password">Password</label>
                                <input type="password" class="form-control" id="password" placeholder="Enter Password " name="password" value="">
                                <span class="text-danger">@error('password'){{$message}} @enderror</span>
                           </div>
-                          <div class="form-floating mb-3 ">
+                          <div class=" mb-3 ">
                                <button class="btn btn-block btn-primary" type="register" > Login </button>
                           </div>
                           <br>
-                          <a href="registration">create new user!</a>
+                          <a href="registration">Create a New User, Register!</a>
 
                     </form>
                 </div>

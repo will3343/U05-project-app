@@ -62,7 +62,7 @@
                           </div>
 
                            <br>
-                           <a href="login">Already registered </a>
+                           <a href="login">Already registered, Click Here! </a>
 
 
                     </form>
