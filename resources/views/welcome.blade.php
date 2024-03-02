@@ -30,7 +30,7 @@
 
       <div class="overlay" data-overlay></div>
 
-      <a href="./index.html" class="logo">
+      <a href="#" class="logo">
         <img src="./images/logo.svg" alt="HishaU logo">
       </a>
 
@@ -55,7 +55,7 @@
        
 
  <!-- logged In or register button joint-->
- <button class="btn btn-primary" method="post" >   <a href="login"> Log in Sign in </a> </button>
+ <button class="btn btn-primary" method="post" >   <a href="login"> Sign In </a> </button>
 
        
       </div>
@@ -68,7 +68,7 @@
 
         <div class="navbar-top">
 
-          <a href="./index.html" class="logo">
+          <a href="#" class="logo">
             <img src="./images/logo.svg" alt="HishaU logo">
           </a>
 
@@ -81,7 +81,7 @@
         <ul class="navbar-list">
 
           <li>
-            <a href="  {{url('welcome')}} " class="navbar-link">Home</a>
+            <a href=" #" class="navbar-link">Home</a>
           </li>
 
           <li>
@@ -239,14 +239,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href="login">
                   <figure class="card-banner">
                     <img src="./images/upcoming-1.png" alt="The Witcher">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">The Witcher</h3>
                   </a>
 
@@ -275,7 +275,7 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/upcoming-2.png"
                       alt="The Creator">
@@ -283,7 +283,7 @@
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">The Creator</h3>
                   </a>
 
@@ -312,14 +312,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/upcoming-3.png" alt="Welcome to the Jungle">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Welcome to the Jungle</h3>
                   </a>
 
@@ -348,7 +348,7 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/upcoming-4.png"
                       alt="Air Force One ">
@@ -356,7 +356,7 @@
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Air Force One Is Down</h3>
                   </a>
 
@@ -498,14 +498,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/movie-1.png" alt="Sonic the Hedgehog 2 movie poster">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Sonic the Hedgehog 2</h3>
                   </a>
 
@@ -534,14 +534,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href="login ">
                   <figure class="card-banner">
                     <img src="./images/movie-2.png" alt="American Fiction">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href="login ">
                     <h3 class="card-title">Morbius</h3>
                   </a>
 
@@ -570,14 +570,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/movie-3.png" alt="Anyone but You">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Anyone But You</h3>
                   </a>
 
@@ -606,14 +606,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href="login ">
                   <figure class="card-banner">
                     <img src="./images/movie-4.png" alt="Aqua man">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Aquaman and The Lost Kingdom</h3>
                   </a>
 
@@ -642,14 +642,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/movie-5.png" alt="Boudica Queen Of War">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Boudica Queen Of War</h3>
                   </a>
 
@@ -678,14 +678,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/movie-6.png" alt="Ballerina">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Ballerina</h3>
                   </a>
 
@@ -714,14 +714,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/movie-7.png" alt="Mom">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Mom</h3>
                   </a>
 
@@ -750,14 +750,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/movie-8.png" alt="Outlander">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">The Outlander</h3>
                   </a>
 
@@ -804,14 +804,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/series-1.png" alt="Suits">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">Suits</h3>
                   </a>
 
@@ -840,14 +840,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href="login ">
                   <figure class="card-banner">
                     <img src="./images/series-2.png" alt="BlackList">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">BlackList</h3>
                   </a>
 
@@ -876,14 +876,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/series-3.png" alt="Game Of Thrones">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">GAME OF THRONES</h3>
                   </a>
 
@@ -912,14 +912,14 @@
             <li>
               <div class="movie-card">
 
-                <a href="./movie-details.html">
+                <a href=" login">
                   <figure class="card-banner">
                     <img src="./images/series-4.png" alt="F.R.I.E.N.D.S">
                   </figure>
                 </a>
 
                 <div class="title-wrapper">
-                  <a href="./movie-details.html">
+                  <a href=" login">
                     <h3 class="card-title">F.R.I.E.N.D.S</h3>
                   </a>
 
@@ -989,14 +989,14 @@
 
         <div class="footer-brand-wrapper">
 
-          <a href="./index.html" class="logo">
+          <a href="#" class="logo">
             <img src="./images/logo.svg" alt="HishaU logo">
           </a>
 
           <ul class="footer-list">
 
             <li>
-              <a href="./index.html" class="footer-link">Home</a>
+              <a href="#" class="footer-link">Home</a>
             </li>
 
             <li>

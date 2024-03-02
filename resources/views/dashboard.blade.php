@@ -80,14 +80,14 @@
 
         <div class="footer-brand-wrapper">
 
-          <a href=" {{url('home')}}" class="logo">
+          <a href=" #" class="logo">
             <img src="./images/logo.svg" alt="HishaU logo">
           </a>
 
           <ul class="footer-list">
 
             <li>
-              <a href="./index.html" class="footer-link">Home</a>
+              <a href="#" class="footer-link">Home</a>
             </li>
 
             <li>
