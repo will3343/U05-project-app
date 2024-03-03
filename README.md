@@ -1,15 +1,21 @@
 <p align="center"><a href="#" target="_blank"><img src="./public/images/logo.svg"></a></p>
 
-<p align="center">
 
-<a href="https://img.shields.io/appveyor/build/:user/https%3A%2F%2Fgithub.com%2Fwill3343%2FU05-project-app/:branch
- "></a>
 
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+
+
+<div align="center">
+
+  <br />
+
+  <h2 align="center">HishaU-Movie-App-U05</h2>
+
+  HishaU-Movie-App-U05 är en helt responsiv filmwebbsida, <br />Responsiv för alla enheter, byggd med HTML, CSS, JavaScript, Php, Mysql och Laravel 8.
+
+  <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
 
 ## U0-5 Movie Web-application (HishaU)
 
