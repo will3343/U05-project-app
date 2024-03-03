@@ -11,7 +11,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## U0-5 Movie Web-application
+## U0-5 Movie Web-application (HishaU)
 
 U0-5 Movie Web-application handlar en komplett dynamisk webbplats HishaU, efter egen design, med PHP med Laravel, API, JavaScript, HTML och CSS för att fördjupa era kunskaper inom webbutveckling.
 
