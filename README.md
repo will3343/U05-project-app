@@ -9,10 +9,10 @@
   <br />
 
   <h2 align="center">HishaU-Movie-App-U05</h2>
+  
+   HTML, CSS, JavaScript, Php, Mysql och Laravel 8.
 
-  HishaU-Movie-App-U05 är en helt responsiv filmwebbsida, <br />Responsiv för alla enheter, byggd med HTML, CSS, JavaScript, Php, Mysql och Laravel 8.
-
-  <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+  <a href="#"><strong>➥ Live Demo</strong></a>
 
 </div>
 
