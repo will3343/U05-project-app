@@ -10,7 +10,7 @@
 
 :root{
     --primary-color:#22254b;
-    --secondary-color:  hsl(202, 86%, 8%); /* #666cae;*/
+    --secondary-color:  hsl(202, 86%, 8%); 
     --white: hsl(0, 100%, 100%);
     --citrine: hsla(0, 100%, 41%, 0.918);
     --rich-black-fogra-29: hsl(225, 25%, 9%);
